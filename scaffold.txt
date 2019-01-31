@@ -1,0 +1,19 @@
+<Test Parsing of iCalendar><This project is meant to test the creation of this struct><3>
+<Property Struct><Initializing, Deleting and comparing><7>
+	<Initialize NULL><Initalize Property Struct with NULL values>
+	<Initialize With Manual Values><Initialize Propery struct then assign values>
+	<Compare NULL><Compare several operations with Null values>
+	<Compare with Manual Values><Compare with Alpha, Beta and Charlie>
+	<Print NULL><Print Null Property>
+	<Print with Manual Values><print Property with correct values>
+	<Print with Null Values><print non Null Property with Null values>
+<Date Struct><Initializing, Deleting and comparing><6>
+	<Initialize NULL><Initalize Date Struct with NULL values>
+	<Initialize With Manual Values><Initialize Date struct then assign values>
+	<Compare NULL><Compare several operations with Null values>
+	<Compare with Manual Values><Compare with 1990, 2000 and 2010>
+	<Print NULL><Print Null Date>
+	<Print with Manual Values><print Date with correct values>
+<Test Code Systems><Alarms, Events, and Ical><1>
+	<Test creation of an Event><f>
+	<Test creation and deletion of NULL Calendar><f>
